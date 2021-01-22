@@ -4,7 +4,7 @@ The basic groundwork for a console chess game
 
 This is the code I'm using for a programming class I'm teaching. The objective is to teach about classes, objects, inheritence, etc.
 
-##Next steps for students
+## Next steps for students
 
 This is code works but many parts of chess aren't supported. Students should understand this code and then improve/add to it.
 
