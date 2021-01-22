@@ -20,4 +20,5 @@ Possible improvements:
   * Preventing illigal hopping over your own pieces (where applicable)
  * Add fun easter eggs like the cheat code that already exists
  * Add support for a web based interface (requires supporting persistence or the introduction of javascript)
+ * Add chess notation/move support (https://en.wikipedia.org/wiki/Chess_notation) 
  
