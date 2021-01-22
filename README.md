@@ -11,7 +11,7 @@ This is the code I'm using for a programming class I'm teaching. The objective i
 This is code works but many parts of chess aren't supported. Students should understand this code and then improve/add to it.
 
 Possible improvements:
-* Detect checkmate
+* Detect check and if you're really wanting to go crazy, checkmate
 * Track and enforce the next player to move
 * Detect and track pieces being eatten; display it to the user on demand.
 * Make it so pieces can "see" the board to support:
