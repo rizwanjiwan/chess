@@ -4,7 +4,7 @@ The basic groundwork for a console chess game
 
 This is the code I'm using for a programming class I'm teaching. The objective is to teach about classes, objects, inheritence, etc.
 
-![Drag Racing](https://rizwanjiwan.com/chess-screenie.png)
+![Drag Racing](https://rizwanjiwan.com/chess-screenie.png =250x)
 
 ## Next steps for students
 
