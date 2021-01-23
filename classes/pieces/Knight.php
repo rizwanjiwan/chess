@@ -5,15 +5,8 @@ class Knight extends AbstractChessPiece
 {
 
     protected function isValidMove(int $xStart, int $yStart, int $xEnd, int $yEnd): bool{
-        $absX=abs($xStart-$xEnd);
-        $absY=abs($yStart-$yEnd);
-        if(($absX===2)&&($absY===1)) {
-            return true;
-        }
-        else if(($absX===1)&&($absY===2)) {
-            return true;
-        }
-        return false;
+        //todo
+        return true;
     }
 
     public function getType(): string{
